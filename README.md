@@ -1,6 +1,6 @@
 # video_calling
 
-Video calling - agora - cloud functions.
+Video calling - agora - firebase cloud functions.
 
 ## Getting Started
 
