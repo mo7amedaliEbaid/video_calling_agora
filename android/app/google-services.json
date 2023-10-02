@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "966826657989",
+    "firebase_url": "https://easy-chat-84b64-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "easy-chat-84b64",
+    "storage_bucket": "easy-chat-84b64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966826657989:android:bb27d7664a792f8adcc8ac",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966826657989-c84gbqahsn3cq8ge9o8kq18lt2f8pq4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app",
+            "certificate_hash": "efa15394dd00623087593eb67efdf2428850924c"
+          }
+        },
+        {
+          "client_id": "966826657989-63q3tbn0cd10r6deete0oc0deh5c6hb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALkiNMpJD-PVevrs7nuFck1HMkNtS00Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966826657989-63q3tbn0cd10r6deete0oc0deh5c6hb7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "966826657989-9ipdo2onrnh44fu3fe98tr0kiudb7hb2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966826657989:android:818c63dd2e365089dcc8ac",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966826657989-63q3tbn0cd10r6deete0oc0deh5c6hb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALkiNMpJD-PVevrs7nuFck1HMkNtS00Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966826657989-63q3tbn0cd10r6deete0oc0deh5c6hb7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "966826657989-9ipdo2onrnh44fu3fe98tr0kiudb7hb2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966826657989:android:b0e87c5f71476973dcc8ac",
+        "android_client_info": {
+          "package_name": "com.example.video_calling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966826657989-63q3tbn0cd10r6deete0oc0deh5c6hb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALkiNMpJD-PVevrs7nuFck1HMkNtS00Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966826657989-63q3tbn0cd10r6deete0oc0deh5c6hb7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "966826657989-9ipdo2onrnh44fu3fe98tr0kiudb7hb2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
