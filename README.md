@@ -1,6 +1,6 @@
 # video_calling
 
-A new Flutter project.
+Video calling - agora - cloud functions.
 
 ## Getting Started
 
